@@ -7,6 +7,7 @@ This repository collects unofficial knowledge, strange edge cases, dev made knic
 ![Retro is forever](https://preview.redd.it/watch-frieren-this-is-not-a-suggestion-v0-3gbsk7cur88c1.jpeg?auto=webp&s=8087a13330e3298e10642165e652c63d9d6f406a "Retro is forever")
 
 [Retroachievements](https://retroachievements.org/ "Retroachievements") is a website dedicated to add achievements to games, all for retro consoles. Yes, all of them, even that one. ~~You are old~~.
+
 How to add stuff to the list or ask for changes? If you're a super advanced power-user, make a pull request (it's not that hard to learn) or else ping / DM Sines on discord.
 
 ## Contents
