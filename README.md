@@ -30,7 +30,7 @@ How to add stuff to the list or ask for changes? If you're a super advanced powe
 - [BigDonRob Badges-Be-Done](https://bigdonrob.github.io/Badges-Be-Done/ "BigDonRob Badges-Be-Done") - Border / Background generator for badges, can be used for quick badges assembly if you have the necessary assets ready
 - [Maximdraco Image-Mixer](https://github.com/Maximdraco/Image-mixer) - Another quick badges assembler
 - [Libretro Thumbnails](https://thumbnails.libretro.com/) - Asset ressource
-- [Spriters Ressources](https://www.spriters-resource.com/) - Asset ressources
+- [Spriters Ressources](https://www.spriters-resource.com/) - Asset ressource
 ## Writeup
 - [suXin Ghidra Pointers](https://suxin.space/notes/tracking-down-playstation-pointers-using-debuggers-ghidra/#preface) - Explanation on how to use generic debuggers and Ghidra to track down PlayStation pointers (PSX/PS2/PSP)
 - [Greyfalken PureDOS DAT Guide](https://github.com/Greyfalken/DAT/wiki/PureDOS-DAT-Guide) Extensive guide on how to build and test DOSZ and DOSC for DOS
