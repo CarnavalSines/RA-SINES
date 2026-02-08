@@ -18,27 +18,29 @@ How to add stuff to the list or ask for changes? If you're a super advanced powe
 
 ## Coding
 - [RATools](https://github.com/Jamiras/RATools) - Alternative RA Logic scripting tool
-- [suXin cruncheevos](https://github.com/suXinjke/cruncheevos/tree/master) - Alternative RA Logic scripting tool using Javascript
-- [BigDonRob Modular Logic Generator](https://bigdonrob.github.io/RA-Modular-Logic-Generator/ "BigDonRob Modular Logic Generator") - Online tool to quickly generate modular cheevo logic
-- [BigDonRob BigDonRAM](https://github.com/BigDonRob/BigDonRAM) - Pointer Analysis tool
-- [CySlaytor PointerFinder2](https://github.com/CySlaytor/PointerFinder2) - Pointer finder Electric Boogaloo. PS2/PSX/Dolphin/PSP advanced pointer finder. It even has a [video](https://youtu.be/QwHTML0kRtI) guide
-- [CySlaytor RARPEditor](https://github.com/CySlaytor/RARPEditor) - Desktop app RP Script editor
-- [AuthorBlues AutoCR](https://authorblues.github.io/retroachievements/AutoCR/) - Logic compliance and general set feedback tool.
-- [Etron RATools Tutorials](https://github.com/Etron-RA/RetroAchievements/tree/main/Tutorials) Etron's RATools tutorial repo.
+- [cruncheevos](https://github.com/suXinjke/cruncheevos/tree/master) - [suXin] Alternative RA Logic scripting tool using Javascript
+- [Modular Logic Generator](https://bigdonrob.github.io/RA-Modular-Logic-Generator/ "BigDonRob Modular Logic Generator") - [BigDonRob] Online tool to quickly generate modular cheevo logic
+- [BigDonRAM](https://github.com/BigDonRob/BigDonRAM) - [BigDonRob] Pointer Analysis tool
+- [PointerFinder2](https://github.com/CySlaytor/PointerFinder2) - [CySlaytor] Pointer finder Electric Boogaloo. PS2/PSX/Dolphin/PSP advanced pointer finder. It even has a [video](https://youtu.be/QwHTML0kRtI) guide
+- [RARPEditor](https://github.com/CySlaytor/RARPEditor) - [CySlaytor] Desktop app RP Script editor
+- [AutoCR](https://authorblues.github.io/retroachievements/AutoCR/) - [AuthorBlues] Logic compliance and general set feedback tool. ![](https://i.imgur.com/7jXdokq.png)
+- [RATools Tutorials](https://github.com/Etron-RA/RetroAchievements/tree/main/Tutorials) [Etron] RATools tutorial repo.
+- [ELF2Heap Toolbox](https://github.com/AshMetalRaf/ELF2Heap-Toolbox) - PS2 ELF Debugging toolbox
 ## Art
-- [BigWeedSmokerMan Collager](https://github.com/FamilyManP/Collager/releases/tag/v2) - "Official" recommanded tool to make Art-Gauntlet collage
-- [BigDonRob Badges-Be-Done](https://bigdonrob.github.io/Badges-Be-Done/ "BigDonRob Badges-Be-Done") - Border / Background generator for badges, can be used for quick badges assembly if you have the necessary assets ready
-- [Maximdraco Image-Mixer](https://github.com/Maximdraco/Image-mixer) - Another quick badges assembler
+- [Collager](https://github.com/FamilyManP/Collager/releases/tag/v2) - [BigWeedSmokerMan] "Official" recommanded tool to make Art-Gauntlet collage
+- [Badges-Be-Done](https://bigdonrob.github.io/Badges-Be-Done/ "BigDonRob Badges-Be-Done") - [BigDonRob] Border / Background generator for badges, can be used for quick badges assembly if you have the necessary assets ready
+- [Image-Mixer](https://github.com/Maximdraco/Image-mixer) - [Maximdraco] Another quick badges assembler
 - [Libretro Thumbnails](https://thumbnails.libretro.com/) - Asset ressource
 - [Spriters Ressources](https://www.spriters-resource.com/) - Asset ressource
 ## Writeup
-- [suXin Ghidra Pointers](https://suxin.space/notes/tracking-down-playstation-pointers-using-debuggers-ghidra/#preface) - Explanation on how to use generic debuggers and Ghidra to track down PlayStation pointers (PSX/PS2/PSP)
-- [Greyfalken PureDOS DAT Guide](https://github.com/Greyfalken/DAT/wiki/PureDOS-DAT-Guide) Extensive guide on how to build and test DOSZ and DOSC for DOS
+- [Ghidra Pointers](https://suxin.space/notes/tracking-down-playstation-pointers-using-debuggers-ghidra/#preface) - [suXin] Explanation on how to use generic debuggers and Ghidra to track down PlayStation pointers (PSX/PS2/PSP)
+- [PureDOS DAT Guide](https://github.com/Greyfalken/DAT/wiki/PureDOS-DAT-Guide) [Greyfalken] Extensive guide on how to build and test DOSZ and DOSC for DOS
 ## Useful Links
 - [RATools Wiki](https://github.com/Jamiras/RATools/wiki/Accessing-Memory) - Syntax explanation for RATools
-- [orangepeelbeef RAScorer](https://opb.servehttp.com/rascorer/) - Quick rescoring overview tool
+- [RAScorer](https://opb.servehttp.com/rascorer/) - [orangepeelbeef] Quick rescoring overview tool
 - [RAHashes](https://github.com/RetroAchievements/RAHashes) - "Official" hashes database to make sure you're linking a proper file to your game's page
 - [DoDAT](https://github.com/schellingb/DoDAT) - File builder for DAT. Rumors says it could be useful for DOS rollout
 - [Frame Calculator](https://www.zapstudio.net/framecalc/) - Time to Frames / Frames to Time converter tool. Useful for pesky time attack calculations
 - [Capitalize My Title](https://capitalizemytitle.com/) - For cheevo names writing compliance
 - [Rebane's Discord Colored Text Generator](https://rebane2001.com/discord-colored-text-generator/) - For fancy set release announcement
+- [Jr. Developer Tutorials Playlist](https://www.youtube.com/playlist?list=PLSFbZ1Alg6zFMRCyRvkJIBIDFIL3ZwCfx) - Compilation of useful RA related tutorials for beginner devs ![](https://i.imgur.com/7jXdokq.png)
