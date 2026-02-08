@@ -20,6 +20,9 @@ How to add stuff to the list or ask for changes? If you're a super advanced powe
 - [RATools](https://github.com/Jamiras/RATools) - Alternative RA Logic scripting tool
 - [suXin cruncheevos](https://github.com/suXinjke/cruncheevos/tree/master) - Alternative RA Logic scripting tool using Javascript
 - [BigDonRob Modular Logic Generator](https://bigdonrob.github.io/RA-Modular-Logic-Generator/ "BigDonRob Modular Logic Generator") - Online tool to quickly generate modular cheevo logic
+- [BigDonRob BigDonRAM](https://github.com/BigDonRob/BigDonRAM) - Pointer Analysis tool
+- [CySlaytor PointerFinder2](https://github.com/CySlaytor/PointerFinder2) - Pointer finder Electric Boogaloo. PS2/PSX/Dolphin/PSP advanced pointer finder. It even has a [video](https://youtu.be/QwHTML0kRtI) guide
+- [CySlaytor RARPEditor](https://github.com/CySlaytor/RARPEditor) - Desktop app RP Script editor
 - [AuthorBlues AutoCR](https://authorblues.github.io/retroachievements/AutoCR/) - Logic compliance and general set feedback tool.
 - [Etron RATools Tutorials](https://github.com/Etron-RA/RetroAchievements/tree/main/Tutorials) Etron's RATools tutorial repo.
 ## Art
