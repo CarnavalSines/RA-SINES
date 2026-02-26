@@ -28,7 +28,8 @@ How to add stuff to the list or ask for changes? If you're a super advanced powe
 - [ELF2Heap Toolbox](https://github.com/AshMetalRaf/ELF2Heap-Toolbox) - PS2 ELF Debugging toolbox
 ## Art
 - [Collager](https://github.com/FamilyManP/Collager/releases/tag/v2) - [BigWeedSmokerMan] "Official" recommanded tool to make Art-Gauntlet collage
-- [Badges-Be-Done](https://bigdonrob.github.io/Badges-Be-Done/ "BigDonRob Badges-Be-Done") - [BigDonRob] Border / Background generator for badges, can be used for quick badges assembly if you have the necessary assets ready
+- [Badges-Be-Done](https://bigdonrob.github.io/Badges-Be-Done/ "BigDonRob Badges-Be-Done") - [BigDonRob] Big Brain edition - Border / Background generator for badges, can be used for quick badges assembly if you have the necessary assets ready
+- [Badges-Be-Done-Simple](https://bigdonrob.github.io/Badges-Be-Done-Simple/) -  [BigDonRob] Simple edition - Same as above but streamlined and less modular
 - [Image-Mixer](https://github.com/Maximdraco/Image-mixer) - [Maximdraco] Another quick badges assembler
 - [Libretro Thumbnails](https://thumbnails.libretro.com/) - Asset ressource
 - [Spriters Ressources](https://www.spriters-resource.com/) - Asset ressource
