@@ -24,7 +24,6 @@ How to add stuff to the list or ask for changes? If you're a super advanced powe
 - [PointerFinder2](https://github.com/CySlaytor/PointerFinder2) - [CySlaytor] Pointer finder Electric Boogaloo. PS2/PSX/Dolphin/PSP advanced pointer finder. It even has a [video](https://youtu.be/QwHTML0kRtI) guide
 - [RARPEditor](https://github.com/CySlaytor/RARPEditor) - [CySlaytor] Desktop app RP Script editor
 - [AutoCR](https://authorblues.github.io/retroachievements/AutoCR/) - [AuthorBlues] Logic compliance and general set feedback tool. ![](https://i.imgur.com/7jXdokq.png)
-- [RATools Tutorials](https://github.com/Etron-RA/RetroAchievements/tree/main/Tutorials) [Etron] RATools tutorial repo.
 - [ELF2Heap Toolbox](https://github.com/AshMetalRaf/ELF2Heap-Toolbox) - PS2 ELF Debugging toolbox
 ## Art
 - [Collager](https://github.com/FamilyManP/Collager/releases/tag/v2) - [BigWeedSmokerMan] "Official" recommanded tool to make Art-Gauntlet collage
@@ -34,6 +33,8 @@ How to add stuff to the list or ask for changes? If you're a super advanced powe
 - [Libretro Thumbnails](https://thumbnails.libretro.com/) - Asset ressource
 - [Spriters Ressources](https://www.spriters-resource.com/) - Asset ressource
 ## Writeup
+- [Math is the Answer](https://github.com/CarnavalSines/RA-SINES/blob/main/Math%20is%20the%20Answer.md) - [BigDonRob] Maths writeup for logic optimisation and tricky edge cases
+- [RATools Tutorials](https://github.com/Etron-RA/RetroAchievements/tree/main/Tutorials) [Etron] RATools tutorial repo.
 - [Ghidra Pointers](https://suxin.space/notes/tracking-down-playstation-pointers-using-debuggers-ghidra/#preface) - [suXin] Explanation on how to use generic debuggers and Ghidra to track down PlayStation pointers (PSX/PS2/PSP)
 - [PureDOS DAT Guide](https://github.com/Greyfalken/DAT/wiki/PureDOS-DAT-Guide) [Greyfalken] Extensive guide on how to build and test DOSZ and DOSC for DOS
 ## Useful Links
