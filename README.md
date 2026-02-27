@@ -46,3 +46,5 @@ How to add stuff to the list or ask for changes? If you're a super advanced powe
 - [Capitalize My Title](https://capitalizemytitle.com/) - For cheevo names writing compliance
 - [Rebane's Discord Colored Text Generator](https://rebane2001.com/discord-colored-text-generator/) - For fancy set release announcement
 - [Jr. Developer Tutorials Playlist](https://www.youtube.com/playlist?list=PLSFbZ1Alg6zFMRCyRvkJIBIDFIL3ZwCfx) - Compilation of useful RA related tutorials for beginner devs ![](https://i.imgur.com/7jXdokq.png)
+- [CodeFrontier](http://www.codefrontier.com/kaizou_code/k_index.htm) - Misc JP Memory digging dive, sometimes you try to hit that deeply unknown territory and turns out that someone else did the work 20 years ago on the other side of the world. JP Knowledge or a good translator app required
+- [DSCheatBoy](https://ds-cheat.boy.jp/) - Same as above, overall more choice (and more up-to-date). Don't let the name fool you, it is not only for DS games
