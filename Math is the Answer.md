@@ -3,22 +3,23 @@
 
 The rest is as easy as pi. Here is a collection of useful math tips, tricks, and cheats that will help you turn a lot of logic into simple Delta = X - 1, Mem = X scenarios.
 
+
 ### Table of Contents:
 * [Add Source with Modifications ( * )](#add-source-with-modifications--)
 * [Advanced Bitcounting](#advanced-bitcounting)
 * [N != 0 (0/1)](#n--0-01)
 * [N < X (0/1)](#n--x-01)
 * [N >= X (0/1) MANUAL](#n--x-01-manual)
-*   Also covers: N > X
+    * Also covers: N > X
 * [N >= X || M + N >= X (0/1) with Remember/Recall](#n--x--m--n--x-01-with-rememberrecall)
-*   Also covers: N > X || M + N > X (0/1)
+    * Also covers: N > X || M + N > X (0/1)
 * [N == X (0/1) MANUAL](#n--x-01-manual-1)
 * [N == X (0/1) with Remember/Recall](#n--x-01-with-rememberrecall)
 * [N == X1 || N == X2 (0/1) with Remember/Recall](#n--x1--n--x2-01-with-rememberrecall)
 
 ## Add Source with Modifications ( * )
 
-$${\color{orange}Delta}$$/$${\color{orange}Mem}$$ checks are always needed, even if they aren't always framed exactly as $${\color{orange}Delta}$$/$${\color{orange}Mem}$$ in the logic. For the best way to ensure accurate single frame timing with a measurable count, we can do a lot with $${\color{red}Add \space Source}$$ and $${\color{red}Sub \space Source}$$. 
+$${\color{orange}Delta}$$ / $${\color{orange}Mem}$$ checks are always needed, even if they aren't always framed exactly as $${\color{orange}Delta}$$ / $${\color{orange}Mem}$$ in the logic. For the best way to ensure accurate single frame timing with a measurable count, we can do a lot with $${\color{red}Add \space Source}$$ and $${\color{red}Sub \space Source}$$. 
 
 The most obvious and simple use of this would be checking that a score was above or below something, and is now at or less than/greater than the target.
 
@@ -384,7 +385,7 @@ For this formula, C needs to be greater than the max possible XOR case. An easy 
 
 If you have $${\color{blue}Remember/Recall}$$ available to use, this is hands down much easier to work with than the manual version if your RANGE is much greater than your target. It will collapse the expanding line count of the manual version to a maximum of 5 per entry. This saves you space anytime the maximum possible value divided by your target value is greater than 3.
 
- While you can technically use $${\color{blue}Remember Recall}$$ + C to save a line, that allows for an underflow and should be avoided.
+ While you can technically use $${\color{blue}Remember/Recall}$$ + C to save a line, that allows for an underflow and should be avoided.
 
 You have your constant, then you subtract the XOR from it. If N == X, that subtraction will be 0 and the division returns 1. If N != X, the subtraction will always be greater than 0, making the division collapse into 0.
 
@@ -424,7 +425,6 @@ Sub Source N3     ^ X2
 Remember   Recall
 Remember   Recall / C
 Measured   Recall = 3
-```
 ```
 
 [⬆️ Return to Top](#math-is-the-answer-9686-of-the-time)
