@@ -5,7 +5,7 @@ The rest is as easy as pi. Here is a collection of useful math tips, tricks, and
 
 
 ### Table of Contents:
-* [Add Source with Modifications ( * )](#add-source-with-modifications--)
+* [Add Source with Modifications ( * )](#add-source-with-modifications---)
 * [Advanced Bitcounting](#advanced-bitcounting)
 * [N != 0 (0/1)](#n--0-01)
 * [N < X (0/1)](#n--x-01)
